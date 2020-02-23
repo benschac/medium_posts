@@ -1,7 +1,7 @@
 ---
 title: "What I Learned Delivering my First Feature A Month Late"
 description: "I’ve built features at work, but none started from scratch or had the level of technical complexity of this project. Initially I thought…"
-date: "2020-02-23T14:34:38.765Z"
+date: "2020-02-23T14:37:48.734Z"
 categories: []
 published: false
 ---

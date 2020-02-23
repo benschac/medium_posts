@@ -1,7 +1,7 @@
 ---
 title: "Small things you can do to make your site not look like shit (In progress)"
 description: "Pretty things on the internet. We all want to make them. Yet, it’s not so easy. There’s not a right or wrong. It’s pretty subjective in the…"
-date: "2020-02-23T14:34:41.299Z"
+date: "2020-02-23T14:37:49.422Z"
 categories: []
 published: false
 ---

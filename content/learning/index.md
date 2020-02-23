@@ -1,7 +1,7 @@
 ---
 title: "Learning"
 description: "Learning, the ability to grasp a new tool, concept or idea and use it is powerful. It’s made life indefinitely better. Sometimes it’s easy…"
-date: "2020-02-23T14:34:42.780Z"
+date: "2020-02-23T14:37:50.087Z"
 categories: []
 published: false
 ---

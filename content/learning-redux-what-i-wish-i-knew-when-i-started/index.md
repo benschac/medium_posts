@@ -1,7 +1,7 @@
 ---
 title: "Learning Redux, what I wish I knew when I started"
 description: "I’m just going to jump right into it. I should’ve started by reading the documentation first. Why didn’t I? I like videos series and…"
-date: "2020-02-23T14:34:40.494Z"
+date: "2020-02-23T14:37:49.184Z"
 categories: []
 published: false
 ---

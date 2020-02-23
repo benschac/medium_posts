@@ -1,7 +1,7 @@
 ---
 title: "Learning to Smile: Facing Adversity"
 description: "This post is inspired by a short talk I was lucky enough to give at the Facial Paralysis conference at SickKids hospital in Toronto."
-date: "2020-02-23T14:34:09.355Z"
+date: "2020-02-23T14:37:20.037Z"
 categories: []
 published: false
 ---

@@ -1,7 +1,7 @@
 ---
 title: "What I Learned Writing a Sr. Front-End Job Posting as a Junior Engineer"
 description: "tl;dr"
-date: "2020-02-23T14:34:12.916Z"
+date: "2020-02-23T14:37:21.494Z"
 categories: []
 published: false
 ---

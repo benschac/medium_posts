@@ -1,7 +1,7 @@
 ---
 title: "ES2015 + ESNext, Features in a NutShell"
 description: "https://i.imgur.com/3I50UMq.gif"
-date: "2020-02-23T14:34:38.743Z"
+date: "2020-02-23T14:37:48.710Z"
 categories: []
 published: false
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Here’s What I learned Re-Factoring a 950 line React Component"
 description: "There’s a good joke about an engineer going to a factory to fix a complex industrial engine. No one has the slightest idea about what to…"
-date: "2020-02-23T14:34:06.957Z"
+date: "2020-02-23T14:37:18.719Z"
 categories: []
 published: false
 ---

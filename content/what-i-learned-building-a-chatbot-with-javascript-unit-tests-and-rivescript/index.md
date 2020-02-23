@@ -1,7 +1,7 @@
 ---
 title: "What I learned Building a Chatbot with Javascript, Unit Tests, and RiveScript"
 description: "GetSwol is your fitness buddy. It’ll remember your maximum lifts and crunch what plates you need to put on for a percent of your maximum…"
-date: "2020-02-23T14:34:10.098Z"
+date: "2020-02-23T14:37:20.260Z"
 categories: []
 published: false
 ---

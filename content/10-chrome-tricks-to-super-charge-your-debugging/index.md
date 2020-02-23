@@ -1,7 +1,7 @@
 ---
 title: "10 Chrome Tricks to Super Charge Your debugging"
 description: "Chrome developer tools are powerful. They give you a whole bunch of insight so we can dig into problems and find underlying issues in our…"
-date: "2020-02-23T14:34:39.927Z"
+date: "2020-02-23T14:37:48.920Z"
 categories: []
 published: false
 ---

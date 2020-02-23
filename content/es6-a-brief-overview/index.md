@@ -1,7 +1,7 @@
 ---
 title: "ES6 — A brief overview"
 description: "So, I’m sure you’re hearing all about the new javascript standard and all of the fun and exciting features it’s going to bring to the…"
-date: "2020-02-23T14:34:43.106Z"
+date: "2020-02-23T14:37:50.288Z"
 categories: []
 published: false
 ---

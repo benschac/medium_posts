@@ -1,7 +1,7 @@
 ---
 title: "React + D3.js bffls"
 description: "Building something either on your own or with someone else really forces you to learn a technology. I’m going to say it now, it’s going to…"
-date: "2020-02-23T14:34:41.233Z"
+date: "2020-02-23T14:37:49.369Z"
 categories: []
 published: false
 ---

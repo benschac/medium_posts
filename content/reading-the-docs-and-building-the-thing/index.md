@@ -1,7 +1,7 @@
 ---
 title: "Reading the Docs and Building the Thing"
 description: "Reading docs is probably some of the least exciting stuff I do on the day to day. Yet, it’s extremely useful and makes my life easier as a…"
-date: "2020-02-23T14:34:41.253Z"
+date: "2020-02-23T14:37:49.383Z"
 categories: []
 published: false
 ---

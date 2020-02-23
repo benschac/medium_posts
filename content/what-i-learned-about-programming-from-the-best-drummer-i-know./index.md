@@ -1,7 +1,7 @@
 ---
 title: "What I Learned About Programming from The Best Drummer I know."
 description: "He who works with the door open gets all kinds of interruptions, but he also occasionally gets clues as to what the world is and what might…"
-date: "2020-02-23T14:34:06.891Z"
+date: "2020-02-23T14:37:18.638Z"
 categories: []
 published: false
 ---

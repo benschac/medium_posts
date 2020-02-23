@@ -1,7 +1,7 @@
 ---
 title: "Re-Tooling learning"
 description: "I’ve been at the Recurse Center for the last 1.5 months. I’ve learned a bunch. But, the most I’ve learned is when I actually built…"
-date: "2020-02-23T14:34:41.275Z"
+date: "2020-02-23T14:37:49.402Z"
 categories: []
 published: false
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Coursera Angular.js Week 2"
 description: "Welcome! I’m not going to lie. This post is going to have a lot of meat and potatoes to it. There was a lot of content in this week. There…"
-date: "2020-02-23T14:34:42.807Z"
+date: "2020-02-23T14:37:50.110Z"
 categories: []
 published: false
 ---

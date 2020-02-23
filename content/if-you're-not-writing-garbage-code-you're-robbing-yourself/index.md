@@ -1,7 +1,7 @@
 ---
 title: "If you’re not writing garbage code, you’re robbing yourself"
 description: "I’ve now read 3 programming books and a whole bunch of articles in the last two months. While I’ve learned some stuff. It pales in…"
-date: "2020-02-23T14:34:41.267Z"
+date: "2020-02-23T14:37:49.394Z"
 categories: []
 published: false
 ---

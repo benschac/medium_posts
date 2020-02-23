@@ -1,7 +1,7 @@
 ---
 title: "p5.js, pairing and buddies"
 description: "Yesterday I paired with a friend from the Recurse Center! We made a thing! Both of us knew nothing about p5.js, we found a tutorial and…"
-date: "2020-02-23T14:34:39.980Z"
+date: "2020-02-23T14:37:48.939Z"
 categories: []
 published: false
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Conway’s Game of Life"
 description: "Creating life, well cellular automata is really what we did here. Conway’s game of life runs on a rather simple set of rules that simulates…"
-date: "2020-02-23T14:34:40.514Z"
+date: "2020-02-23T14:37:49.204Z"
 categories: []
 published: false
 ---
